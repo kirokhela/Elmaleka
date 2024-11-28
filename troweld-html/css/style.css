@@ -1134,28 +1134,3 @@ a:focus {
 /*# sourceMappingURL=style.css.map */
 
 /* Ensure carousel items take full height */
-.carousel-item {
-  height: 100vh; /* Full viewport height */
-  display: flex;
-  justify-content: center;
-  align-items: center; /* Vertically center content */
-
-  margin-top: 250px;
-}
-
-/* Center the text and buttons */
-.detail-box {
-  text-align: center; /* Center text horizontally */
-  color: #fff; /* Optional: Ensure the text is visible if the background is dark */
-}
-
-/* Ensure buttons are also centered */
-.btn-box {
-  margin-top: 50px; /* Optional: Add space between text and buttons */
-  display: flex;
-  justify-content: center; /* Horizontally center the buttons */
-}
-
-.btn1, .btn2 {
-  margin: 0 10px; /* Add spacing between buttons */
-}
